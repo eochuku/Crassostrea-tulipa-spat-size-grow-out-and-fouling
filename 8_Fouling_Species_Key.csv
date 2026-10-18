@@ -1,0 +1,15 @@
+fouling,code,extent,type,classification
+ficopomatus_sp,w,0-4,sessile_fouling,taxon
+spirorbis_sp,x,0-4,sessile_fouling,taxon
+fistulobalanus_pallidus,b,0-4,sessile_fouling,taxon
+chaetomorpha_antennina,a,0-4,sessile_fouling,taxon
+sand/mud,n,0-4,debris,debris
+chondria_bernardii,h,0-4,sessile_fouling,taxon
+small_crabs,c,0-4,mobile_fauna,group
+armases_sp,d,0-4,mobile_fauna,taxon
+sesarma_sp,e,0-4,mobile_fauna,taxon
+littorina_angulifera,l,0-4,mobile_fauna,taxon
+sea_anemones,s,0-4,sessile_fouling,group
+brachidontes_sp,r,0-4,sessile_fouling,taxon
+membranipora_arborescens,m,0-4,sessile_fouling,taxon
+ascidians,z,0-4,sessile_fouling,group
